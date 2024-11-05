@@ -114,6 +114,11 @@ a={12,12,23,22,34,35,65,77}
 for x in range(len(a),0,-1):
     print(a,[x-1])
 
+# NEW CODE UPDATER
+for x in range(len(a),0,-1):
+    print(a,[x-1])
+    
+
 
 
 
